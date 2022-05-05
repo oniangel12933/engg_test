@@ -1,8 +1,8 @@
 # Enng Test
 
 - [Sample work]
-  ![ScreenShot](https://github.com/oniangel12933/Admin_portal/blob/b190d4cfcb6b11fe3b40071ad9c9e2e677c8415b/screenshots/1.mov)
-  ![ScreenShot](https://i.ibb.co/Q9dYKPf/2.png)
-  ![ScreenShot](https://i.ibb.co/x7qvVZx/3.png)
-  ![ScreenShot](https://i.ibb.co/kXMv6yB/4.png)
+  ![ScreenShot](https://github.com/oniangel12933/engg_test/blob/ca511c02ac1077805ca9a4f3625b6ce4aca2791e/screenshots/1.mov)
+  ![ScreenShot](https://github.com/oniangel12933/engg_test/blob/ca511c02ac1077805ca9a4f3625b6ce4aca2791e/screenshots/2.png)
+  ![ScreenShot](https://github.com/oniangel12933/engg_test/blob/ca511c02ac1077805ca9a4f3625b6ce4aca2791e/screenshots/3.png)
+  ![ScreenShot](https://github.com/oniangel12933/engg_test/blob/ca511c02ac1077805ca9a4f3625b6ce4aca2791e/screenshots/4.png)
 
